@@ -1,5 +1,5 @@
 # VLM-ZSAD-Paper-Review
-- `Vision-Language Models(VLMs)`을 활용한 `Zero-Shot Anomaly Detection(ZSAD)`을 수행한 논문들에 대해 리뷰합니다.
+- `Vision-Language Models(VLMs)`을 활용한 `Zero-Shot Anomaly Detection(ZSAD)`을 수행한 논문들을 리뷰합니다.
 - 리뷰 내용에 관해 수정해야하거나, 궁금한 부분 있으시다면 이메일(junyeong_son@korea.ac.kr)을 통해 연락 부탁드립니다.
 - [Youtube] 링크에는 [서울대학교 산업공학과 DSBA 연구실 유튜브](https://www.youtube.com/@dsba2979)에서 직접 제작한 리뷰 영상을 포함시켰습니다.
 - Github] 링크의 경우 official code가 아닐 수 있습니다.
