@@ -17,9 +17,7 @@
 
 # To DO
 - [ ] AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models
-- [ ] CLIP-AD: A Language-Guided Staged Dual-Path Model for Zero-shot Anomaly Detection
-- [ ] Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection
-- [ ] ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation
+- [ ] AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2
 
 # Reference
 - https://github.com/M-3LAB/awesome-industrial-anomaly-detection
