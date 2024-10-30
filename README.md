@@ -17,7 +17,6 @@
 
 # To DO
 - [ ] Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection(ALFA)
-- [ ] VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation
 
 # Reference
 - https://github.com/M-3LAB/awesome-industrial-anomaly-detection
