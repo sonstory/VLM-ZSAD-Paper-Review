@@ -16,8 +16,8 @@
 |Fine-grained Abnormality Prompt Learning for Zero-Shot Anomaly Detection|`FAPrompt`|arXiv|2024|[[Review]](https://junyeongson.notion.site/Fine-Grained-Abnormality-Prompt-Learning-for-Zero-Shot-Anomaly-Detection-1285159f402d80b98358d2d1a81a5190?pvs=4)|[[arXiv]](https://arxiv.org/abs/2410.10289)|[[Github]](https://github.com/mala-lab/FAPrompt)|--|
 
 # To DO
-- [ ] AnomalyGPT: Detecting Industrial Anomalies using Large Vision-Language Models
-- [ ] AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2
+- [ ] Do LLMs Understand Visual Anomalies? Uncovering LLM Capabilities in Zero-shot Anomaly Detection(ALFA)
+- [ ] VCP-CLIP: A visual context prompting model for zero-shot anomaly segmentation
 
 # Reference
 - https://github.com/M-3LAB/awesome-industrial-anomaly-detection
